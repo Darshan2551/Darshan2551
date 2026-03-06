@@ -15,4 +15,49 @@ I am currently working on:<br>Building AI-based projects including computer visi
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## Professional Profiles / Portfolio
+
+GitHub profile: [https://github.com/Darshan2551](https://github.com/Darshan2551)
+
+### Featured Projects
+
+#### SpellBound Speculum (Smart Magic Mirror)
+- Smart mirror showing time, date, calendar, live news, events, and festivals.
+- Voice interaction using Google Assistant integration.
+- Security hardening with Pi-hole to block ads, trackers, and malicious domains.
+- Type: Collaborative academic project.
+
+#### Gesture Controlled Virtual Mouse & Keyboard
+- Computer control using webcam-based hand gestures.
+- Supports cursor movement, clicks, brightness, and system controls.
+- Tech: Python, OpenCV, Mediapipe, PyAutoGUI, CVZone.
+
+#### Multiplayer Online Game Projects
+- Real-time multiplayer web games with room create/join flow.
+- Leaderboards, smooth gameplay, mobile support, and latency-aware design.
+- Repos:
+  - [Bounce Arena](https://github.com/Darshan2551/bouncegame)
+  - [Neon Tic-Tac-Toe](https://github.com/Darshan2551/TicTacToe)
+
+#### Zerone (Full-Stack Event Platform)
+- Frontend + backend event platform with registration workflow.
+- Repos:
+  - [zerone-frontend](https://github.com/Darshan2551/zerone-frontend)
+  - [zerone-backend](https://github.com/Darshan2551/zerone-backend)
+
+### GitHub Projects
+- [AdvenTour](https://github.com/Darshan2551/AdvenTour) - Travel management web system (PHP/CSS/JS/SQL)
+- [CODE_NEXUS](https://github.com/Darshan2551/CODE_NEXUS) - Developer/student project hub
+- [Profolio](https://github.com/Darshan2551/Profolio) - Personal portfolio website
+- [job_alert](https://github.com/Darshan2551/job_alert) - Python job alert automation with Telegram notifications
+- [JobHunter](https://github.com/Darshan2551/JobHunter) - RSS + SQLite based remote job scanner
+- [multiAgenticSystem](https://github.com/Darshan2551/multiAgenticSystem) - Multi-agent quant workflow
+- [My_resume](https://github.com/Darshan2551/My_resume) - Resume PDF repository
+- [RockPaperScissorWithHomePage](https://github.com/Darshan2551/RockPaperScissorWithHomePage) - Browser game + landing page
+
+### Experimental / Learning Projects
+- [ROCK-PAPER-SCISSOR-FINALPROJECT](https://github.com/Darshan2551/ROCK-PAPER-SCISSOR-FINALPROJECT)
+- [Weather](https://github.com/Darshan2551/Weather)
+- [AdventTour](https://github.com/Darshan2551/AdventTour)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
