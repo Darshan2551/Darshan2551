@@ -25,9 +25,10 @@ GitHub profile: [https://github.com/Darshan2551](https://github.com/Darshan2551)
 - Type: Collaborative academic project.
 
 #### Gesture Controlled Virtual Mouse & Keyboard
-- Computer control using webcam-based hand gestures.
-- Supports cursor movement, clicks, brightness, and system controls.
-- Tech: Python, OpenCV, Mediapipe, PyAutoGUI, CVZone.
+- Developed a real-time gesture recognition system to control a computer using a webcam.
+- Implemented cursor control, clicks, and brightness adjustment.
+- Tech: Python, OpenCV, MediaPipe, PyAutoGUI
+- 🚀 Replaces traditional input devices using computer vision.
 
 #### Multiplayer Online Game Projects
 - Real-time multiplayer web games with room create/join flow.
@@ -36,16 +37,18 @@ GitHub profile: [https://github.com/Darshan2551](https://github.com/Darshan2551)
   - [Bounce Arena](https://github.com/Darshan2551/bouncegame)
   - [Neon Tic-Tac-Toe](https://github.com/Darshan2551/TicTacToe)
 
-#### Zerone (Full-Stack Event Platform)
-- Frontend + backend event platform with registration workflow.
-- Repos:
+#### Zerone (Full-Stack Event Management Platform)
+- Built a full-stack platform for event registration and management.
+- Designed frontend + backend with user workflows.
+- 🚀 Demonstrates full-stack architecture and real-world deployment concepts.
   - [zerone-frontend](https://github.com/Darshan2551/zerone-frontend)
-  - [zerone-backend](https://github.com/Darshan2551/zerone-backend)
+  - [zerone-backend](https://github.com/Darshan2551/zerone-backend)4
+
 
 ### GitHub Projects
 - [AdvenTour](https://github.com/Darshan2551/AdvenTour) - Travel management web system (PHP/CSS/JS/SQL)
 - [CODE_NEXUS](https://github.com/Darshan2551/CODE_NEXUS) - Developer/student project hub
-- [Profolio](https://github.com/Darshan2551/Profolio) - Personal portfolio website
+- [Portfolio](https://github.com/Darshan2551/Profolio) - Personal portfolio website
 - [job_alert](https://github.com/Darshan2551/job_alert) - Python job alert automation with Telegram notifications
 - [JobHunter](https://github.com/Darshan2551/JobHunter) - RSS + SQLite based remote job scanner
 - [multiAgenticSystem](https://github.com/Darshan2551/multiAgenticSystem) - Multi-agent quant workflow
